@@ -29,16 +29,6 @@ understand Pandas fundamentals step by step.
 
 ---
 
-## 📂 Project Structure
-
-- `Pandas_Basic.ipynb`  
-  *Main notebook explaining Pandas fundamentals*
-
-- `README.md`  
-  *Project documentation*
-
----
-
 ## 📌 Topics Covered
 
 - Introduction to Pandas
