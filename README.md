@@ -60,4 +60,4 @@ understand Pandas fundamentals step by step.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pandas-basics.git
+   git clone https://github.com/Ravi598-lenovo/Pandas_Basic.git
