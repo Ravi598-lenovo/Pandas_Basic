@@ -15,7 +15,7 @@ When I started learning Pandas, I found that most resources:
 
 This notebook reflects **my personal learning process** and aims to help:
 - beginners
-- students
+- Students
 - first-time Pandas learners  
 understand Pandas fundamentals step by step.
 
